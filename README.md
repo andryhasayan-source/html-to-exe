@@ -62,7 +62,7 @@ Source code is **not public**. HTML to EXE is a commercial product distributed u
 **Buy a license or request a demo:**
 
 - 🌐 Website — [shashevpro.ru](https://www.shashevpro.ru)
-- 🛒 Order on Kwork — [kwork.ru/user/andreysha256](https://kwork.ru/user/andreysha256)
+- 🛒 Order on Kwork — [kwork.ru/user/shashevpro](https://kwork.ru/user/shashevpro)
 - ✉️ Email — programmer@shashevpro.ru
 - 💬 VK — [vk.com/andrey_shashev](https://vk.com/andrey_shashev)
 
